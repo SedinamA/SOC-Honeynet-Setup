@@ -36,13 +36,14 @@ All resources were originally deployed and  exposed to the internet. The Virtual
 Network Security Groups were hardened by blocking all traffic with the exception of my admin workstation, and all other resources were protected by tier built-in firewalls as well as Private Enpoints.
 
 ## Attack Maps Before Hardening / Security Controls
+![image](https://github.com/SedinamA/Vulnerability-Management/assets/146953803/0ebabbc5-b807-4f9d-9be9-98498d9ec069)
 ![image](https://github.com/SedinamA/Vulnerability-Management/assets/146953803/2f0a3b19-1668-4e88-ab2a-7f8fe931afd2)
-
+![image](https://github.com/SedinamA/Vulnerability-Management/assets/146953803/ed385c9a-a9c2-4927-ad14-7657bfa6bbca)
 ![image](https://github.com/SedinamA/Vulnerability-Management/assets/146953803/c342327c-0644-45d8-bbc4-68d1c4a58564)
 
-![image](https://github.com/SedinamA/Vulnerability-Management/assets/146953803/ed385c9a-a9c2-4927-ad14-7657bfa6bbca)
 
-![image](https://github.com/SedinamA/Vulnerability-Management/assets/146953803/0ebabbc5-b807-4f9d-9be9-98498d9ec069)
+
+
 
 ## Metrics Before Hardening / Security Controls
 
